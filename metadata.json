@@ -1,0 +1,6 @@
+{
+  "name": "Taskly",
+  "description": "A refined, corporate-modern task manager built using Room Database and Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
